@@ -48,6 +48,7 @@ Transmission suddenly ends. You put your notebook and pencil away and start thin
 * probably intergalactic species meant to say “humans” here but we will never know for sure
 
 Description Data Recieved
+
 The solutions are evaluated on two criteria: predicted future Index values and allocated energy from a newly discovered star
 
 1) Index predictions are evaluated using RMSE metric
