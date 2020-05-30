@@ -76,11 +76,11 @@ The solutions are evaluated on two criteria: predicted future Index values and a
 5) The submission should be in the following format:
 
 Variable:
-    Index
-    pred
+    Index,
+    pred,
     opt_pred
     
 Description:
-    Unique index from the test dataset in the ascending order
-    Prediction for the index on interest
+    Unique index from the test dataset in the ascending order,
+    Prediction for the index on interest,
     Optimal energy allocation
